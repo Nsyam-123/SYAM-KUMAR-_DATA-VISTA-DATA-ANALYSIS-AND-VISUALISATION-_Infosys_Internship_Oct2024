@@ -6,7 +6,7 @@ Use Case - Learning how to perform arithmatic & modulus operations. It's widely 
 Library used - Numpy
 
 Codes Executed: 
-1. Liner Regresstion
+1. Linear Regresstion
 2. Logistic Regresstion
 3. Euclidean Distance
 4. PCA
