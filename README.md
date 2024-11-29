@@ -107,4 +107,58 @@ Codes Executed:
 4. FPS
 5. Multiple Video Streaming
 
+#Zomato Dataset Analysis and Visualization
+
+1. Project Title : Zomato Dataset Analysis and Visualization: Insights into Global Restaurant Trends
+2. Libraries Used
+The following Python libraries were utilized to carry out the analysis and visualization of the Zomato dataset:
+- NumPy: For numerical operations and array manipulations.
+- Pandas: For data manipulation and analysis.
+- Matplotlib: For creating static visualizations.
+- Seaborn: For advanced data visualizations with enhanced aesthetics.
+- Plotly: For interactive and dynamic visualizations (if applicable).
+
+3. Data Operations
+Several data operations were performed to clean, preprocess, and transform the dataset for analysis:
+- Data Cleaning:
+  - Handling missing values.
+  - Removing duplicates.
+  - Standardizing inconsistent data formats (e.g., currency, text case).
+
+- Feature Engineering:
+  - Creating new columns (e.g., price ranges, rating categories).
+  - Encoding categorical variables for analysis.
+
+- Data Exploration:
+  - Checking for null values.
+  - Analyzing the structure of the dataset (e.g., data types, dimensions).
+
+4. Data Analysis
+Exploratory data analysis (EDA) was conducted to uncover trends and patterns in the Zomato dataset:
+- Top Restaurant Chains: Identified the most popular restaurant chains based on the number of outlets.
+- Cuisines Analysis: Explored the distribution of cuisines offered globally.
+- Location Trends: Analyzed the concentration of restaurants in different cities and countries.
+- Cost Distribution: Examined price range trends and their relationship with customer ratings.
+- Ratings Insights: Investigated patterns in customer ratings and reviews.
+
+5. Data Visualization
+Visualizations were created to provide insights into the dataset. Some key visualizations include:
+- Bar Charts:
+  - Top cuisines offered across different cities.
+  - Popularity of restaurant chains.
+
+- Scatter Plots:
+  - Relationship between restaurant cost and customer ratings.
+
+- Pie Charts:
+  - Distribution of price ranges or cuisines.
+
+- Heatmaps:
+  - Correlation between various numerical features (e.g., cost, ratings).
+
+- Geographical Maps (if applicable):
+  - Mapping restaurant densities across cities and countries.
+
+
+
 
