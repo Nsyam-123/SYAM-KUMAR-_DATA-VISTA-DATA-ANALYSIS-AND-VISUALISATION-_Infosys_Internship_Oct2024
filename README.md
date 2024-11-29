@@ -107,9 +107,10 @@ Codes Executed:
 4. FPS
 5. Multiple Video Streaming
 
-#Zomato Dataset Analysis and Visualization
 
-1. Project Title : Zomato Dataset Analysis and Visualization: Insights into Global Restaurant Trends
+ #Zomato Dataset Analysis and Visualization
+ 
+1. Project Title :Zomato Dataset Analysis and Visualization: Insights into Global Restaurant Trends
 2. Libraries Used
 The following Python libraries were utilized to carry out the analysis and visualization of the Zomato dataset:
 - NumPy: For numerical operations and array manipulations.
@@ -158,7 +159,4 @@ Visualizations were created to provide insights into the dataset. Some key visua
 
 - Geographical Maps (if applicable):
   - Mapping restaurant densities across cities and countries.
-
-
-
 
